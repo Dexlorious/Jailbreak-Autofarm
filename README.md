@@ -26,3 +26,5 @@ Sometimes it won't give money (In Queue)
 Cargo plane is quite buggy (In Queue)
 ##
 Cargo train can kill you and break the autofarm (Fixing)
+##
+Robbery Toggles Don't Work (In Queue)
