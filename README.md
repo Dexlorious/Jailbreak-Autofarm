@@ -1,3 +1,10 @@
+# Recent Update(s)
+	Fixed Toggles
+##
+	(Hopefully) Fixed Museum
+##
+	Toggles Save
+
 # Jailbreak-Autofarm
 An autofarm, for jailbreak.
 # Screenshot:
