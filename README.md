@@ -24,3 +24,5 @@ Sometimes it can kill you when teleported
 Sometimes it won't give money
 ##
 Cargo plane is quite buggy
+##
+Cargo train can kill you and break the autofarm
