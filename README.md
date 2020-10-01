@@ -4,6 +4,12 @@
 	(Hopefully) Fixed Museum
 ##
 	Toggles Save
+##
+	Fixed Museum Killing Upon Escaping
+##
+	Fixed Cargo Train Being Unable To Disable
+##
+	Bank Cop Danger Radius Extended
 
 # Jailbreak-Autofarm
 An autofarm, for jailbreak.
