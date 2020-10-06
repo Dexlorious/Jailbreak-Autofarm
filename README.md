@@ -34,10 +34,10 @@ It will escape if the cops get within 40 studs of you in the bank and cargo trai
 # Bugs
 Sometimes it can kill you when teleported (In Queue)
 ##
-Sometimes it won't give money (In Queue)
+Sometimes it won't give money (Rare)
 ##
-Cargo plane is quite buggy (In Queue)
+Cargo plane is quite buggy (Fixed?)
 ##
-Cargo train can kill you and break the autofarm (Fixing)
+Cargo train can kill you and break the autofarm (Fixed???)
 ##
-Robbery Toggles Don't Work (In Queue)
+Robbery Toggles Don't Work (Fixed)
