@@ -4,7 +4,6 @@ for i,v in pairs(getgc(true)) do
 		for ii,vv in pairs(const) do
 			if tostring(vv) == "Type" then
 				getgenv().CarSpawn = v
-				break
 			end
 		end
 	end
