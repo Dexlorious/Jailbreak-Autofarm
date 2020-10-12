@@ -1,5 +1,7 @@
 # Recent Update(s)
 ##
+	Unobfuscated part of the autofarm's init to hopefully help with lag
+##
 	Anti Ragdoll (Should Prevent Fall Damage And Hopefully Prevent Museum Issue)
 ##
 	Fixed Toggles
