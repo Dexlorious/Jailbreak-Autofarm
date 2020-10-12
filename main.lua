@@ -3,13 +3,13 @@ for i,v in pairs(getgc(true)) do
 		local const = debug.getconstants(v)
 		for ii,vv in pairs(const) do
 			if tostring(vv) == "Type" then
-				getgenv().CarSpawn = v
+				getgenv().CarSpawn = v -- Car spawn for escapes
 			end
 		end
 	end
 	if typeof(v) == "table" and rawget(v,"Ragdoll") then
 		v.Ragdoll = function()
-			return 1e9
+			return 1e9 -- Anti ragdoll to prevent stupid shit
 		end
 	end
 end
